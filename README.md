@@ -4,7 +4,7 @@ An unfinished Flutter project.
 
 # KMMI Flutter
 
-Nama             : Muhammad Bintang Firdaus
+Nama             : Muhammad Bintang Firdaus<br>
 Perguruan Tinggi : Universitas Lampung
 
 
